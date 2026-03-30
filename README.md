@@ -2,7 +2,7 @@
 
 | Field | Details |
 | :--- | :--- |
-| **Student Name** | Varun |
+| **Student Name** | Varun Kumar Sinha|
 | **Roll Number** | 24BCE10999 |
 | **Course** | Open-Source Software (NGMC) |
 | **Date** | March 2026 |
